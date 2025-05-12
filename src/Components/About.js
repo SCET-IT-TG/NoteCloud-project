@@ -4,7 +4,7 @@ function About() {
 
   return (
     <div className='container my-3'>
-      <p>Welcome to NoteCloud, your ultimate cloud-based platform for storing, organizing, and accessing your notes anytime, anywhere. Whether you're a student, professional, or just someone who loves jotting down ideas, NoteCloud provides a secure and seamless way to manage your notes effortlessly.</p>
+      <h4>Welcome to NoteCloud, your ultimate cloud-based platform for storing, organizing, and accessing your notes anytime, anywhere. Whether you're a student, professional, or just someone who loves jotting down ideas, NoteCloud provides a secure and seamless way to manage your notes effortlessly.</h4>
       <br/>
       <p><b>Our Vision:</b><br />
         We envision a world where ideas flow freely and are never lost. With NoteCloud, we aim to make note-taking and information management as effortless as possible, empowering users to focus on creativity and productivity.
